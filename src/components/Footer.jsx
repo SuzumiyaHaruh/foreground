@@ -132,7 +132,7 @@ const Footer = () => {
             <Right>
                 <Title>聯係方式</Title>
                 <ContactItem>
-                    <Room style={{marginRight: "10px"}}/> 廣東省佛山市 廣東東軟學院
+                    <Room style={{marginRight: "10px"}}/> 廣東省佛山市 格里芬分部
                 </ContactItem>
                 <ContactItem>
                     <Phone style={{marginRight: "10px"}}/> +86 159 899 605 93
